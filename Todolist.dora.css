@@ -7,7 +7,7 @@
 .container {
     width: 100%;
     min-height:100vh;
-    background: url(punk.png);
+    background: url(punkie.png);
     padding: 10px;
 }
 .todo-app h2 img {
@@ -72,7 +72,7 @@ ul li::before {
     height: 28px;
     width:28px;
     border-radius: 50%;
-    background-image:url(uncj-removebg-preview.png);
+    background-image:url(uncj.png);
     background-size:cover ;
     background-position: center;
     top: 8px;
